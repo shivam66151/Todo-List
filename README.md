@@ -1,2 +1,2 @@
-Simple Todo List Made using Bootstrap
+Simple Todo List Made using Bootstrap,Jquery
 
